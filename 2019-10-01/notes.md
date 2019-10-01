@@ -1,9 +1,9 @@
 ## Contact
 
-Gabor Szegedi
-wayasam@gmail.com
-https://www.linkedin.com/in/g%C3%A1bor-szegedi-75692975/
-https://github.com/VSZM/
+- Gabor Szegedi
+- wayasam@gmail.com
+- https://www.linkedin.com/in/g%C3%A1bor-szegedi-75692975/
+- https://github.com/VSZM/
 
 ## Lecture notes
 
