@@ -17,8 +17,9 @@
 - Check data correlations, visualize your data
 - Choose a simple model at first with default parameters. Later on you can experiment with parameter optimization and more complex models.
 - Evaluate your model. Visualize it if possible.
-- COMMENT ALL THE STEPS YOU DO, EXPLAIN YOUR THOUGH PROCESS!
+- **COMMENT ALL THE STEPS YOU DO, EXPLAIN YOUR THOUGH PROCESS!**
 - You can export your notebook to PDF in jupyter: File > Download as > PDF via LaTeX
+- None of this stuff is groundbreaking, Google has all the answers :)
 
 ## Examples
 
