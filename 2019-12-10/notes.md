@@ -26,5 +26,5 @@
 These are very basic examples, you are expected to do better.
 
 - [Clustering Example](Clustering.ipynb)
-- Classification (todo)
+- [Classification Example](titanic_classification.ipynb)
 - [Regression Example](linear_regression_and_visualization.ipynb)
